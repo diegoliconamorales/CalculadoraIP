@@ -14,7 +14,7 @@ Aplicación de escritorio en Python con dos herramientas:
 
 ## 1. Ejecutar sin instalar nada (ejecutables)
 
-En la carpeta `ejecutables/` están los programas listos para Windows:
+Los programas listos para Windows están en la sección [Releases](https://github.com/diegoliconamorales/CalculadoraIP/releases) de este repositorio (y en la carpeta `ejecutables/` del ZIP entregado):
 
 | Archivo | Qué abre |
 |---|---|
