@@ -1,0 +1,3 @@
+# La calculadora solo usa la biblioteca estándar de Python (incluye Tkinter).
+# PyInstaller solo se necesita para generar los .exe:
+pyinstaller>=6.0
